@@ -52,7 +52,7 @@ python3 -i 1000 -v -d   Single simulation with 1.000 iterations, visualize flag 
 python3 -a              Automatic simualition glag set
 ```
 
-# More info about project and my aproach to problem
+# More info about project and my approach to problem
 
 Detailed description in polish
 ```
