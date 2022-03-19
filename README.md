@@ -51,3 +51,11 @@ Exmaple use command
 python3 -i 1000 -v -d   Single simulation with 1.000 iterations, visualize flag set and debug flag set
 python3 -a              Automatic simualition glag set
 ```
+
+# More info about project and my aproach to problem
+
+Detailed description in polish
+```
+- Sprawozdnie / Raport:       EBSIS Etap 1 - Opis rozwiązania.pdf
+- Prezentacja / Prezentation: EBSIS Etap 1 - Prezentacja.pdf
+```
