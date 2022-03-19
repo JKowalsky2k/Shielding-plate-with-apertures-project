@@ -34,11 +34,11 @@ pip3 install -r requirements.txt
 
 # Run from command line
 
-Help:
+[❔] Help
 ```
 python3 main.py -h
 ```
-Flags:
+[⛳] Flags
 ```
 --iterations, -i   (required)   (default: 1)    Number of iterations for simulation to find best match plate to projet requirements
 --visualize,  -v   (optional)                   Generate images of best plate that matches project requirements for each iteration
